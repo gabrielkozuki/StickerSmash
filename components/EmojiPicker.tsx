@@ -27,7 +27,7 @@ export default function EmojiPicker({ isVisible, children, onClose }: Props) {
 
 const styles = StyleSheet.create({
     modalContent: {
-        height: '35%',
+        height: '25%',
         width: '100%',
         backgroundColor: '#25292e',
         borderTopRightRadius: 18,
